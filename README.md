@@ -118,9 +118,9 @@ Websites and interfaces built using HTML5 and CSS3.
 </p>
 
 
-* 💼 LinkedIn: [Your LinkedIn]
-* 📧 Email: [Your Email]
-* 🐙 GitHub: [@YOUR_USERNAME]
+* 💼 LinkedIn: linkedin.com/in/ahmed-abdelkader-a-332273325
+* 📧 Email: ahmedbaheg841@gmail.com 
+* 🐙 GitHub: https://github.com/AHMEDGAMER12
 
 ---
 
